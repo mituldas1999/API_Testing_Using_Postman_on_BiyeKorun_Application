@@ -16,7 +16,7 @@ To run this project, you will need to add the following environment variables to
                                     Total                             Failed
     Iterations                        1                                  0 
     Requests                          67                                 0 
-    Prerequisite Scripts                0                                  0
+    Prerequisite Scripts              0                                  0
     Test Scripts                      67                                 0
     Assertions                        9
     ------------------------------------------------------------------------ 

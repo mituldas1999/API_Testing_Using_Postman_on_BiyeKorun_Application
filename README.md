@@ -6,27 +6,27 @@ A brief description of what this project does and who it's for
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your "Biye Korun ENV.postman_environment.json" file
+To run this project, you will need to add the following environment variables to your "Biye Korun ENV.postman_environment.json" file.
 
-`API_KEY`
+`API_TESTING`
 
-`ANOTHER_API_KEY`
+`BIYE KORUN`
 
 ## Result 
                                     Total                             Failed
     Iterations                        1                                  0 
     Requests                          67                                 0 
-    Prerequest Scripts                0                                  0
+    Prerequisite Scripts                0                                  0
     Test Scripts                      67                                 0
     Assertions                        9
     ------------------------------------------------------------------------ 
     Total run duration                                                32.4s
-    Total data received                                     72.14KB (approx)
+    Total data received:                                     72.14KB (approx)
     Average response time                                             399ms 
     Total Failures                                                       
     
     
-  `Total Failurer: 9`
+  `Total Failure: 9`
  
 
 

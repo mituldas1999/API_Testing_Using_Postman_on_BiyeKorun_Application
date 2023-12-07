@@ -18,7 +18,7 @@ To run this project, you will need to add the following environment variables to
     Requests                          67                                 0 
     Prerequisite Scripts              0                                  0
     Test Scripts                      67                                 0
-    Assertions                        9
+    Assertions                        326                                9
     ------------------------------------------------------------------------ 
     Total run duration                                                32.4s
     Total data received:                                     72.14KB (approx)
